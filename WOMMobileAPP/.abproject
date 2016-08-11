@@ -1,0 +1,45 @@
+{
+  "ProjectName": "WOMMobileAPP",
+  "ProjectGuid": "3488ab18-2aea-4e35-be20-7d4fd80e6e5f",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.WOMMobileAPP",
+  "DisplayName": "WOMMobileAPP",
+  "Author": "",
+  "Description": "WOMMobileAPP",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{3d7b06d0-0d3c-4840-8087-55eeec19bcba}",
+  "WP8ProductID": "{50f2407f-d381-407a-9cd9-ba06803a480a}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.WOMMobileAPP",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
